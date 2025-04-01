@@ -68,12 +68,13 @@ The Indian Premier League (IPL), founded in 2008, is a premier Twenty20 (T20) cr
  
  ## Tools & Libraries Used
  
- - **Python**
- - **Numpy**
- - **Pandas**
- - **Matplotlib**
- - **Seaborn**
- - **Plotly**
+ - **R**
+ - **dpylr**
+ - **ggplot2**
+ - **tidyverse**
+ - **lubridate**
+ - **data.table**
+ - **plotly**
  
  ## Acknowledgements
  
